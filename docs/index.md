@@ -35,7 +35,8 @@ We recognize contributions through a set of human-centered validation protocols:
 
 other:
 
-📊 [View the System Architecture Diagrams](docs/system/architecture.md)
+📊 [View the System Architecture Diagrams](system/architecture.md)
+
 
 
 ---
