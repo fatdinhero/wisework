@@ -1,26 +1,22 @@
-
 # 🧠 System Architecture of WiseWork
 
-## 🔷 High-Level System Diagram
+## 🔷 High-Level System Overview
 
-![High-Level System Architecture](assets/wisework_systemdiagram.png)
+![High-Level System Architecture](assets/wisework_systemdiagram_en.png)
 
-This diagram presents the core structure of the WiseWork protocol:
+This diagram presents the functional structure of the WiseWork protocol, including:
 
-- **User Layer**: Individual contributions, roles, and reputation
-- **Function Layer**: Tasks, knowledge modules, and challenges
-- **Coordination Layer**: Proof logic, tokenomics, and governance
-- **Infrastructure Layer**: Blockchain, AI, data flows, and external APIs
+- User Interfaces, Integration Layer, Neutralized Governance Ethics
+- Core Engine for Proof Validation, Taskflows, Token Logic
+- Backend Layers for Blockchain, Identity, and Knowledge Integration
 
 ---
 
-## 🔬 Detailed Impact & Flow Map
+## 🔬 Detailed Flow of Validation & Impact
 
-![Detailed Flow Diagram](assets/wisework_system_diagram.png)
+![Detailed Flow Diagram](assets/wisework_systemdiagram_detailed_en.png)
 
-This system flow illustrates:
+This diagram illustrates the systemic flow of user interactions, AI task generation, contribution validation, moderation, token anchoring, and reputation dynamics.
 
-- Validation processes across proof modules
-- Feedback loops between human and machine input
-- Reputation and token feedback for real-world aligned incentives
-- Transparent contribution tracking for decentralized decision-making
+It bridges the frontend experience with real-world outcomes and transparent tokenized processes.
+
