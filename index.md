@@ -33,6 +33,10 @@ We recognize contributions through a set of human-centered validation protocols:
 - 🫶 [Proof of Care](https://github.com/fatdinhero/wisework/issues/8)  
 - 👤 [Proof of Presence](https://github.com/fatdinhero/wisework/issues/9)
 
+other:
+
+📊 [View the System Architecture Diagrams](./system/architecture.md)
+
 ---
 
 ## 🧭 Join the Movement
