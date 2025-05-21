@@ -1,5 +1,5 @@
 
-# WiseWork – Return on Humanity
+# Return on Humanity
 
 **A protocol for ethical collaboration, collective intelligence, and regenerative action.**
 
