@@ -30,6 +30,25 @@ WiseWork uses a modular system of "Proofs" to recognize meaningful contributions
 🗂️ [View full Project Board →](https://github.com/users/fatdinhero/projects)
 
 
+## 📊 System Architecture Overview
+
+### 🔷 High-Level System Diagram
+
+![High-Level System Architecture](docs/assets/wisework_systemdiagram.png)
+
+This diagram illustrates the key components of WiseWork: Users, Functional Engine, Coordination Layer, and Infrastructure Backbone.
+
+---
+
+### 🔬 Detailed Information & Impact Flow
+
+![Detailed System Diagram](docs/assets/wisework_system_diagram.png)
+
+This diagram shows how users interact with AI, Proof Mechanisms, Governance Structures, and Real-World Interfaces.
+
+
+
+
 ## How to Contribute
 
 WiseWork is in early development. You can contribute by:
