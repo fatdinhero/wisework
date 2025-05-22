@@ -317,3 +317,5 @@ To implement this project board in GitHub:
 7. Assign issues to the appropriate columns
 
 This board structure provides visibility into the development process and helps manage the flow of work from backlog to completion, with a focus on the PoC phase and the critical path for development.
+
+> Licensed under CC BY 4.0
