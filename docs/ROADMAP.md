@@ -69,3 +69,9 @@ Each phase builds on the previous, moving from vision to system to community.
 ---
 
 *This roadmap is alive. Every step is open to revision through proof and reflection.*
+
+
+## License
+
+- 🧠 **Code** is licensed under the [Apache License 2.0](LICENSE).
+- 📚 **Documentation** is licensed under [CC BY 4.0](docs/LICENSE).
