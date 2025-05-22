@@ -45,3 +45,9 @@ WiseWork is in early development. You can contribute by:
 Feel free to open an Issue or Discussion with your thoughts.
 
 Together, we build the ethical infrastructure for collective intelligence.
+
+
+## License
+
+- 🧠 **Code** is licensed under the [Apache License 2.0](LICENSE).
+- 📚 **Documentation** is licensed under [CC BY 4.0](docs/LICENSE).
