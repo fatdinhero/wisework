@@ -412,7 +412,7 @@ Each module should include:
 
 ## 9. Contribution Guidelines
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines on:
+See [CONTRIBUTING.md](../.github/CONTRIBUTING.md) for detailed guidelines on:
 
 - Code style and formatting
 - Pull request process
